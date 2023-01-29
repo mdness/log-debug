@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "0x src/server.js",
+    "start": "node src/server.js",
     "clinic": "clinic doctor -- node src/server.js"
   },
   "author": "",
